@@ -1,9 +1,9 @@
-[![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Fathima Farhana K I</h1>
 <h3 align="center">A passionate IT engineer from India</h3>
 
-<img align= "right "src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="Coding" srcset="" width="400" >
+<img align= "right" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="Coding" srcset="" width="400" >
 
 - 🔭 I’m currently working on **E commerce project**
 
