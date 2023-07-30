@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Fathima Farhana K I</h1>
 <h3 align="center">A passionate IT engineer from India</h3>
 
-<img align= "right" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="Coding" srcset="" width="300" style="border-raduis: 100px;" >
+<img align= "right" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="Coding" srcset="" width="300" style="border-radius: 100;" >
 
 - 🔭 I’m currently working on **E commerce project**
 
