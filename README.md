@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **E commerce project**
 
-- 🌱 I’m currently learning **Intermediate javascript**
+- 🌱 I’m currently learning **New Stufss**
 
 - 💬 Ask me about **HTML,CSS,Bootstrap,Python**
 
